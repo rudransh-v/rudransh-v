@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rudransh Vyas 👋
 
-<!--
-**rudransh-v/rudransh-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE student pivoting into Cybersecurity and Network Engineering. Currently building foundations in Linux and networking, with hands-on practice on TryHackMe and OverTheWire.
 
-Here are some ideas to get you started:
+## Current focus
+- Linux fundamentals
+- Computer networking (TCP/IP, subnetting, DNS)
+- TryHackMe Pre-Security path
+- OverTheWire Bandit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm building
+- Linux
+- Networking
+- Git & GitHub
+- Cybersecurity fundamentals
+
+## Repos
+- [`cybersecurity-notes`](link) — Linux, networking, and tool notes
+
+## Connect
+- LinkedIn: [linkedin.com/in/rudransh-vyas-a08008328](https://linkedin.com/in/rudransh-vyas-a08008328)
+- Email: rudransh.vyas2020@gmail.com
