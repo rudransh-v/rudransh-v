@@ -15,7 +15,8 @@ ECE student pivoting into Cybersecurity and Network Engineering. Currently build
 - Cybersecurity fundamentals
 
 ## Repos
-- [`cybersecurity-notes`](link) — Linux, networking, and tool notes
+- [`cybersecurity-notes`](https://github.com/rudransh-v/cybersecurity-notes) — Linux, networking, and tool notes
+- [`bandit-writeups`](https://github.com/rudransh-v/bandit-writeups) — OverTheWire Bandit solutions and learnings      
 
 ## Connect
 - LinkedIn: [linkedin.com/in/rudransh-vyas-a08008328](https://linkedin.com/in/rudransh-vyas-a08008328)
